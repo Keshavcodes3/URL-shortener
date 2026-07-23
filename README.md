@@ -196,7 +196,7 @@ SITE_URL=http://localhost:3000
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/url-shortener.git
+git clone https://github.com/Keshavcodes3/url-shortener.git
 ```
 
 Move into the project
